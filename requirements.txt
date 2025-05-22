@@ -1,0 +1,7 @@
+vllm>=0.2.0
+torch>=2.0.0
+transformers>=4.36.0
+datasets>=2.15.0
+pandas>=2.0.0
+llm-blender>=0.1.0
+jsonlines>=4.0.0 
